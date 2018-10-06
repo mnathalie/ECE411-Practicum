@@ -1,1 +1,13 @@
 
+Lee's ideas:  Control light intensity through two polarizers: Inputs are Light sensors, and a knob for selecting desired light level
+                                                              Output/actuator would be a motor turning one polarizer
+                                                              Embedded systen would decide how much to turn the motor with feedback from
+                                                                the sensor
+              Ultrasonic/laser distance measuring device:     Input would be a button to take measurement and some reciever
+                                                              Output would display a distance 
+                                                              Embedded system would turn on the transmitter/speaker and reciever/microphone
+                                                                and display data
+              Convert Light colors to different sounds:       Use RGB color filters to make harmonus sounds, maybe connect to a telescope
+                                                              
+              
+              I'll add more ideas as I think of them
