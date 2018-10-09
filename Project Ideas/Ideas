@@ -11,3 +11,13 @@ Lee's ideas:  Control light intensity through two polarizers: Inputs are Light s
                                                               
               
               I'll add more ideas as I think of them
+              
+             
+Top idea: Spinning music box
+
+            Inputs, speed knob (BPM???), and color wheel for song
+            Output: speaker playing songs, Log speed measurements 
+            
+            Embedded system: convert series of flashing colors into series of frequencies to play at some inout speed
+            
+             Required hardware: Base, Variable speed dc, Color filters.
